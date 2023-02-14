@@ -32,9 +32,11 @@
 
 [index2.html](https://github.com/SpongeBob-hmbb/SimpleSnaker/blob/main/index2.html)
 
+这是第三版本！
+
 做了什么
 
-1. 食物有可能随机出现在蛇的身上，导致bug
+1. 修复了：食物有可能随机出现在蛇的身上，导致的bug
 
 该版本的问题：
 
