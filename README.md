@@ -14,7 +14,7 @@
 
 ## index1.html
 
-[index.html](https://github.com/SpongeBob-hmbb/SimpleSnaker/blob/main/index1.html)
+[index1.html](https://github.com/SpongeBob-hmbb/SimpleSnaker/blob/main/index1.html)
 
 这是第二版本！
 
@@ -29,3 +29,15 @@
 2. 失败后刷新不够流畅
 3. 食物有可能随机出现在蛇的身上，导致bug
 4. ……
+
+[index2.html](https://github.com/SpongeBob-hmbb/SimpleSnaker/blob/main/index2.html)
+
+做了什么
+
+1. 食物有可能随机出现在蛇的身上，导致bug
+
+该版本的问题：
+
+1. 没有分数记录
+2. 失败后刷新不够流畅
+3. ……
